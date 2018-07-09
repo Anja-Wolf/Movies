@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MovieTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-05-31T19:17:49" hostname="Anjas-MacBook-Air-2.local" time="0.154">
+  <properties/>
+  <testcase name="equalsOtherFsk" classname="MovieTest" time="0.001"/>
+  <testcase name="movie0" classname="MovieTest" time="0.118"/>
+  <testcase name="movie6" classname="MovieTest" time="0.002"/>
+  <testcase name="equalsOther" classname="MovieTest" time="0.0"/>
+  <testcase name="equalsOtherClass" classname="MovieTest" time="0.0"/>
+  <testcase name="equalsOtherTitle" classname="MovieTest" time="0.003"/>
+  <testcase name="equalsNull" classname="MovieTest" time="0.0"/>
+  <testcase name="equalsSame" classname="MovieTest" time="0.0"/>
+  <testcase name="movie12" classname="MovieTest" time="0.0"/>
+  <testcase name="movie16" classname="MovieTest" time="0.0"/>
+  <testcase name="movie18" classname="MovieTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

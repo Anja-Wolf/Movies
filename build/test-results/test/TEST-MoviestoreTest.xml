@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MoviestoreTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2018-05-31T19:17:49" hostname="Anjas-MacBook-Air-2.local" time="0.041">
+  <properties/>
+  <testcase name="getCustomer" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="rentMovieAvailable" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="returnMovie" classname="MoviestoreTest" time="0.0"/>
+  <testcase name="returnMovieTitle" classname="MoviestoreTest" time="0.0"/>
+  <testcase name="addMovie" classname="MoviestoreTest" time="0.0"/>
+  <testcase name="returnMovieNotRentedTitle1" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="getAvailableMovies" classname="MoviestoreTest" time="0.0"/>
+  <testcase name="addMovies" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="rentUserMaximumMoviesReached" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="returnMovieNotRented1" classname="MoviestoreTest" time="0.0"/>
+  <testcase name="returnMovieNotRented2" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="rentMovieUserDoesNotExist" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="returnUserDoesNotExistTitle" classname="MoviestoreTest" time="0.0"/>
+  <testcase name="getMaxRentableMoviesByCustomer" classname="MoviestoreTest" time="0.0"/>
+  <testcase name="setMaxRentableMoviesByCustomer" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="rentMovieNotAvailable1" classname="MoviestoreTest" time="0.002"/>
+  <testcase name="rentMovieNotAvailable2" classname="MoviestoreTest" time="0.001"/>
+  <testcase name="rentMovieUserTooYoung" classname="MoviestoreTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

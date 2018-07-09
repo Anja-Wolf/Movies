@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CustomerTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2018-05-31T19:17:48" hostname="Anjas-MacBook-Air-2.local" time="0.366">
+  <properties/>
+  <testcase name="returnMovieSerial18" classname="CustomerTest" time="0.113"/>
+  <testcase name="getRentedMoviesLists" classname="CustomerTest" time="0.001"/>
+  <testcase name="returnMovieSerialNotRented" classname="CustomerTest" time="0.001"/>
+  <testcase name="returnMovieTitleNothingRented" classname="CustomerTest" time="0.001"/>
+  <testcase name="returnMovieSerial0" classname="CustomerTest" time="0.001"/>
+  <testcase name="getRentedMoviesCounts" classname="CustomerTest" time="0.001"/>
+  <testcase name="getAges" classname="CustomerTest" time="0.001"/>
+  <testcase name="returnMovieTitle18" classname="CustomerTest" time="0.001"/>
+  <testcase name="returnMovieSerialNothingRented" classname="CustomerTest" time="0.001"/>
+  <testcase name="rentMovies0" classname="CustomerTest" time="0.001"/>
+  <testcase name="rentMovies6" classname="CustomerTest" time="0.001"/>
+  <testcase name="returnMovieTitleNotRented" classname="CustomerTest" time="0.0"/>
+  <testcase name="toStrings" classname="CustomerTest" time="0.218"/>
+  <testcase name="rentMovies12" classname="CustomerTest" time="0.004"/>
+  <testcase name="rentMovies16" classname="CustomerTest" time="0.002"/>
+  <testcase name="rentMovies18" classname="CustomerTest" time="0.003"/>
+  <testcase name="returnMovieTitle0" classname="CustomerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

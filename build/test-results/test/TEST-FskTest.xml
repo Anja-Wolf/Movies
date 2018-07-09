@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FskTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-05-31T19:17:49" hostname="Anjas-MacBook-Air-2.local" time="0.044">
+  <properties/>
+  <testcase name="getFskForAge0" classname="FskTest" time="0.004"/>
+  <testcase name="getFskForAge6" classname="FskTest" time="0.0"/>
+  <testcase name="values" classname="FskTest" time="0.008"/>
+  <testcase name="getFskForAge12" classname="FskTest" time="0.0"/>
+  <testcase name="getFskForAge16" classname="FskTest" time="0.0"/>
+  <testcase name="getFskForAge18" classname="FskTest" time="0.001"/>
+  <testcase name="toStringTest" classname="FskTest" time="0.004"/>
+  <testcase name="ageOkFsk12" classname="FskTest" time="0.001"/>
+  <testcase name="ageOkFsk16" classname="FskTest" time="0.002"/>
+  <testcase name="ageOkFsk18" classname="FskTest" time="0.002"/>
+  <testcase name="ageOkFsk0" classname="FskTest" time="0.0"/>
+  <testcase name="ageOkFsk6" classname="FskTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
